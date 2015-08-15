@@ -31,7 +31,7 @@ $(document).ready(function(){
             success: function () {
               $(this).html("Request Sent!");
               $(this).css("color","blue").css("background-color","#eee").css("background-image","none");
-              $(this).removeAttr("href");
+              $(this).removeClass("pretty-button");
             }
           });
           return false;
