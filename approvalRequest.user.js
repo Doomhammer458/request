@@ -9,8 +9,8 @@
 // @include      https://reddit.com/r/ScienceTest/*
 // @include		 https://reddit.com/r/science/*
 // @grant        none
-// @updateURL	 http://scienceama.com/approvalbutton.user.js
-// @downloadURL  http://scienceama.com/approvalbutton.user.js
+// @updateURL	 https://github.com/Doomhammer458/request/raw/master/approvalRequest.user.js
+// @downloadURL  https://github.com/Doomhammer458/request/raw/master/approvalRequest.user.js
 // ==/UserScript==
 
 $(document).ready(function(){
