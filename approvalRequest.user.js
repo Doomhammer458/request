@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Request Approval Button
 // @namespace    reddit.com/r/science
-// @version      1.6
+// @version      1.7
 // @description  AoS Approval Request
 // @author       glr123
 // @match        https://reddit.com/r/ScienceTest/*
@@ -38,3 +38,4 @@ $(document).ready(function(){
     });
 });
 
+//rev1
